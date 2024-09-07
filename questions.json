@@ -1,0 +1,222 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "What does \"cosy\" mean?",
+        "options": [
+            "Cold",
+            "Warm and comfortable",
+            "Scary",
+            "Loud"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which word means \"full of energy\"?",
+        "options": [
+            "Sleepy",
+            "Quiet",
+            "Energetic",
+            "Slow"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "What does \"perplexed\" mean?",
+        "options": [
+            "Happy",
+            "Confused",
+            "Angry",
+            "Excited"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which word means \"to walk slowly and heavily\"?",
+        "options": [
+            "Skip",
+            "Run",
+            "Jump",
+            "Trudge"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "What does \"enthusiasm\" mean?",
+        "options": [
+            "Boredom",
+            "Sadness",
+            "Excitement",
+            "Fear"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "What is the author’s purpose if they write a story about a comic superhero saving the world?",
+        "options": [
+            "To inform",
+            "To persuade",
+            "To entertain",
+            "To confuse"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "If a book gives instructions on how to bake a cake, what is the author’s purpose?",
+        "options": [
+            "To entertain",
+            "To inform",
+            "To persuade",
+            "To scare"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "If an article explains how animals live in the jungle, what is the author’s purpose?",
+        "options": [
+            "To entertain",
+            "To inform",
+            "To persuade",
+            "To confuse"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "<b>Choose the incorrect spelling from the sentence:</b><br> \"The cat sat on the mat and watched a beautiful butterfly fluttter by.\"",
+        "options": [
+            "Beautiful",
+            "Butterfly",
+            "Fluttter",
+            "Sat"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Choose the correct spelling:",
+        "options": [
+            "Interain",
+            "Entrtrain",
+            "Entertain",
+            "Entertrain"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Which sentence uses \"cosy\" correctly?",
+        "options": [
+            "The cosy lion roared loudly.",
+            "I felt cosy in my warm blanket.",
+            "The cosy race was very fast.",
+            "She ate a cosy apple."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which sentence uses \"wilderness\" correctly?",
+        "options": [
+            "I ate wilderness for lunch.",
+            "The wilderness sang a song.",
+            "We saw many animals in the wilderness.",
+            "I wear wilderness on my feet."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "<b>Which word completes the following sentence:</b><br> \"I was going on a bike _____.\"",
+        "options": [
+            "Flow",
+            "Speed",
+            "Road",
+            "Ride"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which word is spelled incorrectly?",
+        "options": [
+            "Energetic",
+            "Enthusism",
+            "Contagious",
+            "Memories"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which sentence has a spelling mistake?",
+        "options": [
+            "We performed dance on our anual day.",
+            "The puppy was very energetic.",
+            "I was perplexed by the puzzle.",
+            "The story captivated everyone."
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Which word means \"recently found\"?",
+        "options": [
+            "Old",
+            "Newfound",
+            "Ancient",
+            "Forgotten"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Which sentence is missing a word with a capital letter?",
+        "options": [
+            "My favourite subject in school is math.",
+            "We went to the park to play soccer.",
+            "Sarah and I are planning a trip to Paris.",
+            "the sun was shining brightly in the sky."
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "<b>Choose the incorrect spelling from the sentence:</b><br> \"We went to the park to play with our friends and have a greaat time.\"",
+        "options": [
+            "Friends",
+            "Park",
+            "Time",
+            "Greaat"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Which word means \"to join together\"?",
+        "options": [
+            "Separate",
+            "Break",
+            "Connect",
+            "Cut"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Choose the correctly spelt word:",
+        "options": [
+            "Perfect",
+            "Choice",
+            "Match",
+            "All the above"
+        ],
+        "correct": 3
+    }
+]
